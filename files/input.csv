@@ -1,20 +1,51 @@
 Sr,Reason_of_failure,Components_Failed,Number_of_Failure,Time_Interval
-1,Early failure,comp1,26,0.00-4.00
-2,reason1,comp2,59,4.0-8.0
-3,reason2,comp3,36,8.0-12.0
-4,reason3,comp4,57,12.0-16.0
-5,reason7,comp5,33,16.0-20.0
-6,reason4,comp6,35,20.0-24.0
-7,reason1,comp7,29,24.0-28.0
-8,reason2,comp8,34,28.0-32.0
-9,reason3,comp9,14,32.0-36.0
-10,reason2,comp10,46,36.0-40.0
-11,reason4,comp1,32,40.0-44.0
-12,reason5,comp12,25,44.0-48.0
-13,reason2,comp13,19,48.0-52.0
-14,reason3,comp14,20,52.0-56.0
-15,reason2,comp5,18,56.0-60.0
-16,reason4,comp16,60,60.0-64.0
-17,reason1,comp17,18,64.0-68.0
-18,reason6,comp18,28,68.0-72.0
-19,reason3,comp19,20,72.0-76.0
+1,Early failure,"Resistor,Capacitor,Diode",79,0.00-4.00
+2,Over heated,Resistor,59,4.0-8.0
+3,Excessive humidity,Resistor,36,8.0-12.0
+4,Manufacturing defects,IC,57,12.0-16.0
+5,Over heated,Resistor,33,16.0-20.0
+6,Fuse blowing,Capacitor,35,20.0-24.0
+7,Bad magnet wire insulation,Inductor,29,24.0-28.0
+8,Corrosion,Inductor,34,28.0-32.0
+9,Potting issues,Inductor,14,32.0-36.0
+10,Over heat,Resistor,46,36.0-40.0
+11,Excessive forward current,Diode,32,40.0-44.0
+12,Large reverse voltage,Diode,25,44.0-48.0
+13,Open biased resistance,Diode,19,48.0-52.0
+14,Extensive use,Resistor,20,52.0-56.0
+15,Ferroresonance,Capacitor,18,56.0-60.0
+16,Harsh operating temperature conditions,IC,60,60.0-64.0
+17,Electrical overstress,Inductor,18,64.0-68.0
+18,Over charging,Battery,28,68.0-72.0
+19,Dielectric failures,Capacitor,20,72.0-76.0
+20,Over heated,Resistor,15,76.0-80.0
+21,Excessive humidity,Resistor,23,80.0-84.0
+22,Manufacturing defects,IC,69,84.0-88.0
+23,Over heated,Resistor,30,88.0-92.0
+24,Fuse blowing,Capacitor,43,92.0-96.0
+25,Bad magnet wire insulation,Inductor,29,96.0-100.0
+26,Corrosion,Inductor,80,104.0-108.0
+27,Potting issues,Inductor,50,108.0-112.0
+28,Over heat,Resistor,59,112.0-116.0
+29,Excessive forward current,Diode,38,116.0-120.0
+30,Large reverse voltage,Diode,49,120.0-124.0
+31,Open biased resistance,Diode,53,124.0-128.0
+32,Extensive use,Resistor,29,128.0-132.0
+33,Ferroresonance,Capacitor,48,132.0-136.0
+34,Harsh operating temperature conditions,IC,47,136.0-140.0
+35,Electrical overstress,Inductor,42,140.0-144.0
+36,Over charging,Battery,29,144.0-148.0
+37,Dielectric failures,Capacitor,15,148.0-152.0
+38,Over heated,Resistor,45,152.0-156.0
+39,Excessive humidity,Resistor,54,156.0-160.0
+40,Manufacturing defects,IC,39,164.0-170.0
+41,Over heated,Resistor,31,170.0-174.0
+42,Fuse blowing,Capacitor,25,174.0-178.0
+43,Bad magnet wire insulation,Inductor,32,178.0-182.0
+44,Corrosion,Inductor,46,182.0-186.0
+45,Potting issues,Inductor,16,186.0-190.0
+46,Over heat,Resistor,35,190.0-194.0
+47,Excessive forward current,Diode,34,194.0-198.0
+48,Large reverse voltage,Diode,54,198.0-202.0
+49,Open biased resistance,Diode,26,202.0-206.0
+50,Over heated,Resistor,29,206.0-210.0

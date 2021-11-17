@@ -1,13 +1,44 @@
 Reason_of_failure,Components_Failed,Time_Interval,Failure_Rate,Mean_Time_Between_Failures
-reason1,comp2,4.0,0.0266,0.8941176470588236
-reason2,comp3,8.0,0.0178,0.628099173553719
-reason3,comp4,12.0,0.031,0.4269662921348314
-reason7,comp5,16.0,0.0199,0.3601895734597156
-reason4,comp6,20.0,0.023,0.3089430894308943
-reason2,comp8,28.0,0.0268,0.2459546925566343
-reason2,comp10,36.0,0.0437,0.2059620596205962
-reason4,comp1,40.0,0.0357,0.1895261845386533
-reason4,comp16,60.0,0.1562,0.1399631675874769
+Early failure,"Resistor,Capacitor,Diode",0.0,0.0108,2.6582278481012658
+Over heated,Resistor,4.0,0.0083,1.5217391304347827
+Excessive humidity,Resistor,8.0,0.0052,1.206896551724138
+Manufacturing defects,IC,12.0,0.0085,0.9090909090909092
+Fuse blowing,Capacitor,20.0,0.0055,0.7023411371237458
+Over heat,Resistor,36.0,0.0078,0.4976303317535545
+Harsh operating temperature conditions,IC,60.0,0.0115,0.3523489932885906
+Manufacturing defects,IC,84.0,0.0151,0.2730819245773732
+Fuse blowing,Capacitor,92.0,0.0102,0.2494061757719715
+Corrosion,Inductor,104.0,0.0104,0.2208201892744479
+Potting issues,Inductor,108.0,0.0139,0.2097902097902098
+Over heat,Resistor,112.0,0.0174,0.1981132075471698
+Excessive forward current,Diode,116.0,0.0119,0.1912568306010929
+Large reverse voltage,Diode,120.0,0.0163,0.1830863121185701
+Open biased resistance,Diode,124.0,0.0189,0.175
+Ferroresonance,Capacitor,132.0,0.0193,0.1644479248238058
+Harsh operating temperature conditions,IC,136.0,0.0204,0.1586102719033232
+Electrical overstress,Inductor,140.0,0.0198,0.1537335285505124
+Over heated,Resistor,152.0,0.0254,0.1443298969072164
+Excessive humidity,Resistor,156.0,0.0343,0.1391650099403578
+Manufacturing defects,IC,164.0,0.014,0.1356589147286821
+Corrosion,Inductor,182.0,0.053,0.1248513674197384
+Over heat,Resistor,190.0,0.0545,0.1211771494518176
+Large reverse voltage,Diode,198.0,0.1646,0.115321252059308
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
