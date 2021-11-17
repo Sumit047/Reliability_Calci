@@ -1,4 +1,5 @@
 import numpy as np
+import best_fit_model
 class predict:
     class reliability_factor:
         def calculate(rf,t,val):
